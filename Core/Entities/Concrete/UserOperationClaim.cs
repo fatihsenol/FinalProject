@@ -2,7 +2,7 @@
 {
     public class UserOperationClaim : IEntity
     {
-        public int Ic { get; set; }
+        public int Id { get; set; }
 
         public int UserId { get; set; }
 
